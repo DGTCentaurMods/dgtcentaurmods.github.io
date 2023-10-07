@@ -3,7 +3,7 @@ layout: post
 title:  "Network Share"
 author: Ed
 categories: [ Manual ]
-image: assets/images/4.jpg
+image: assets/images/manual-yellow.png
 ---
 As of version 1.3.2 you the DGT Centaur Mods software provides a network share facility utilising webdav. This allows you to access the Centaur as a network drive!
 

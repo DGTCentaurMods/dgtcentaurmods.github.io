@@ -11,7 +11,7 @@ As of version 1.3.2 you the DGT Centaur Mods software provides a network share f
 
 Open File Explorer and type http://centaur.local into the address bar and hit enter  (if you named your board something other than centaur then use that!)
 
-![File Explorer](/assets/images/webdav-windows)
+![File Explorer](/assets/images/webdav-windows.png)
 
 In File Explorer if you open or have the navigation pane on the left you can also right click "This PC", choose "Show more options" and then "Map Network Drive". Choose a drive letter, type in http://centaur.local and check the box that says Reconnect at sign-in
 

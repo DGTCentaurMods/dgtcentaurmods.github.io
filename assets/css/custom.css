@@ -6,9 +6,11 @@ Just customize your theme here.
 body {
   overflow-wrap: break-all;
   word-break: break-all;
+  word-wrap:break-word;
 }
 
 P {
   overflow-wrap: break-all;
   word-break: break-all;
+  word-wrap:break-word;
 }

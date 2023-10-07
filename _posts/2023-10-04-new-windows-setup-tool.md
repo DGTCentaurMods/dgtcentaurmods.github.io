@@ -2,7 +2,7 @@
 layout: post
 title:  "New Windows Setup Tool"
 author: Ed
-categories: [ Tools ]
-image: assets/images/4.jpg
+categories: [ Manual, Tools ]
+image: assets/images/manual-blue.png
 ---
 [NewWindowsSetupToolInstructions.pdf](https://github.com/EdNekebno/DGTCentaurMods/files/12643328/NewWindowsSetupToolInstructions.pdf)

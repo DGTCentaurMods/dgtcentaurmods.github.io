@@ -5,9 +5,9 @@ author: Ed
 categories: [ Manual, Lichess ]
 image: assets/images/4.jpg
 ---
-Under [tampermonkey-usercript] you'll find a Tampermonkey userscript. This allows you to quickly import some of the latest PGNs on your board over wifi into the Lichess Analysis tool to view and do your analyis, in for example Chrome or Firefox.
+Under [Tampermonkey User Script][tampermonkey-usercript] you'll find a Tampermonkey userscript. This allows you to quickly import some of the latest PGNs on your board over wifi into the Lichess Analysis tool to view and do your analyis, in for example Chrome or Firefox.
 
-First make sure you have installed Tampermonkey: [tampermonkey]
+First make sure you have installed Tampermonkey: [Tampermonkey][tampermonkey]
 
 In Tampermonkey in your browser click "Create New Script" and copy and paste the contents in.
 

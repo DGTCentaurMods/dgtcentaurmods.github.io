@@ -5,4 +5,10 @@ Just customize your theme here.
 
 body {
   overflow-wrap: break-word;
+  word-break: break-word;
+}
+
+P {
+  overflow-wrap: break-word;
+  word-break: break-word;
 }

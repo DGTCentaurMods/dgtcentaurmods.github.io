@@ -3,7 +3,7 @@ layout: post
 title:  "Pegasus Protocol"
 author: Ed
 categories: [ Pegasus, Protocols ]
-image: assets/images/manual-green.png
+image: assets/images/pegasus-protocol-featured-image.png
 ---
 
 This document describes the DGT Pegasus Protocol. The protocol described here is reverse engineered, and thus not the official version. Some information may be unclear or incomplete in comparison to the DGT API, however this lets you talk to the board with no commitments.

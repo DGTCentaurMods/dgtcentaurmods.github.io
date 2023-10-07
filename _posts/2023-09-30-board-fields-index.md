@@ -3,7 +3,7 @@ layout: post
 title:  "Board Fields Index"
 author: Ed
 categories: [ Centaur, Protocols ]
-image: assets/images/4.jpg
+image: assets/images/manual-yellow.png
 ---
 ## How to convert field decimal value to hex and back:  
 Field are called in funcftions using decimal values (A1 = 0 and H8 = 63) but the board electronics uses a different index (A8 down to H1). Use the below functions if you need to convert. 

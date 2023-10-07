@@ -4,11 +4,11 @@ Just customize your theme here.
 ================================================== */
 
 body {
-  overflow-wrap: break-word;
-  word-break: break-word;
+  overflow-wrap: break-all;
+  word-break: break-all;
 }
 
 P {
-  overflow-wrap: break-word;
-  word-break: break-word;
+  overflow-wrap: break-all;
+  word-break: break-all;
 }

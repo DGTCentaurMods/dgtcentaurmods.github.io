@@ -3,7 +3,7 @@ layout: post
 title:  "Pegasus Emulation"
 author: Ed
 categories: [ Manual, Pegasus ]
-image: assets/images/manual-lightgreen
+image: assets/images/manual-yellow.png
 ---
 The DGT Centaur with DGT Centaur Mods installed is capable of emulating the later DGT Pegasus board. To do this select "DGT Pegasus" from the menu.
 

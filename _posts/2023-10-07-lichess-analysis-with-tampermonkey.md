@@ -5,7 +5,7 @@ author: Ed
 categories: [ Manual, Lichess ]
 image: assets/images/4.jpg
 ---
-Under [Tampermonkey User Script]https://github.com/EdNekebno/DGTCentaurMods/tree/master/tools/tampermonkey) you'll find a Tampermonkey userscript. This allows you to quickly import some of the latest PGNs on your board over wifi into the Lichess Analysis tool to view and do your analyis, in for example Chrome or Firefox.
+Under [Tampermonkey User Script](https://github.com/EdNekebno/DGTCentaurMods/tree/master/tools/tampermonkey) you'll find a Tampermonkey userscript. This allows you to quickly import some of the latest PGNs on your board over wifi into the Lichess Analysis tool to view and do your analyis, in for example Chrome or Firefox.
 
 First make sure you have installed Tampermonkey: [Tampermonkey](https://www.tampermonkey.net/)
 

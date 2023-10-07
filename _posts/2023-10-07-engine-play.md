@@ -11,11 +11,11 @@ Some engines are included with DGT Centaur Mods. If you want to add your own the
 
 From the menu select Engines
 
-[[/resources/images/enginesmenu.jpg]]
+[[/assets/images/enginesmenu.jpg]]
 
 You will then be prompted to select an engine
 
-[[/resources/images/enginesmenu2.jpg]]
+[[/assets/images/enginesmenu2.jpg]]
 
 Following this you will be presented with several other menus, depending on the engines, to determine what color you want to play, etc.
 
@@ -25,8 +25,8 @@ You play the engine normally, just as you would play the original DGT Centaur so
 
 The epaper display is viewable from both the white and black sides of the board, so it doesn't matter what color you are playing!
 
-[[/resources/images/enginesplayingstart.jpg]]
+[[/assets/images/enginesplayingstart.jpg]]
 
 In engine mode then Analysis calculations and graphs are shown by default if you are running on a Pi Zero 2w (and off on a Pi Zero w to save on CPU). To turn them off press the down arrow on the board, or to turn them on press the up arrow. The back button can be used to quit in frustration when you've set a level too high for yourself :)
 
-[[/resources/images/enginesanalysis.jpg]]
+[[/assets/images/enginesanalysis.jpg]]

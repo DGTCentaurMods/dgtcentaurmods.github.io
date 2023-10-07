@@ -3,7 +3,7 @@ layout: post
 title:  "Playing Against the Original Centaur Software"
 author: Ed
 categories: [ Manual ]
-image: assets/images/4.jpg
+image: assets/images/manual-orange.png
 ---
 Important to us is that your body can maintain its original functionality should you want it to. So our [installation processes](/new-windows-setup-tool/) include methods to copy across the software from the original SD-card that was inside your Centaur.
 

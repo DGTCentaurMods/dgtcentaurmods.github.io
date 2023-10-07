@@ -3,7 +3,7 @@ layout: post
 title:  "Playing Engines on DGTCentaurMods"
 author: Ed
 categories: [ Manual, Engines ]
-image: assets/images/manual-lightblue.png
+image: assets/images/manual-blue.png
 ---
 Some engines are included with DGT Centaur Mods. If you want to add your own then you can add any UCI compatible engine with the web interface. The engine mode of DGT Centaur Mods allows you to play an engine as it was originally intended (rather than the Centaur's adaptive mode)
 

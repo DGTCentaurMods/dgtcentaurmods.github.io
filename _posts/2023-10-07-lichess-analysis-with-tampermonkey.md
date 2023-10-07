@@ -21,5 +21,5 @@ Go to Lichess analysis, or refresh if you are already there.
 
 Clicking in the PGN textbox should produce a new button "DGT Centaur". Clicking on this will bring up a listing of your latest games. If you choose one, it will load the PGN into the textbox over wifi and start the analysis.
 
-[tampermonkey-usercript]: [(https://github.com/EdNekebno/DGTCentaurMods/tree/master/tools/tampermonkey]
+[tampermonkey-usercript]: [https://github.com/EdNekebno/DGTCentaurMods/tree/master/tools/tampermonkey]
 [tampermonkey]:   [https://www.tampermonkey.net/]
